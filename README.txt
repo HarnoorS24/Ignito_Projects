@@ -8,3 +8,5 @@ Though I try not to mention previous projects, the projects are meant to be view
 4. Diabetes Prediction.
 5. Customer Churn Prediction
 6. Flight Delay Prediction
+7. Bank Loan Approval
+8. Amazon Review Sentiment Analysis
