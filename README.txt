@@ -12,3 +12,11 @@ Though I try not to mention previous projects, the projects are meant to be view
 8. Amazon Review Sentiment Analysis
 9. Heart Disease Prediction
 10. Stock Price Prediction
+11. E-Commerce Recommender System
+12. Credit Card Fraud Detection
+13. Employee Attrition Prediction
+14. Airbnb Price Prediction
+15. Retail Sales Forecasting
+16. Movie Recommendation System
+
+Note that projects 13-16 are in progress right now
