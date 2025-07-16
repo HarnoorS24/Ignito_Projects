@@ -4,7 +4,7 @@ I use python for all code segments unless I specify otherwise in the project.
 Though I try not to mention previous projects, the projects are meant to be viewed in a specific order. For now, the order is as below.
 1. Titanic
 2. Housing Prices
-3. Iris Flower
+3. Iris Flower Classification
 4. Diabetes Prediction.
 5. Customer Churn Prediction
 6. Flight Delay Prediction
